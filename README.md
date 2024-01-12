@@ -1,3 +1,8 @@
+
+
+[![DOI](https://sandbox.zenodo.org/badge/742522647.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.21733)
+
+
 !pip install psrqpy
 
 conda activate gammapy-1.1
